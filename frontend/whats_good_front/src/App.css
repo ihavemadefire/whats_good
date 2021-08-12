@@ -1,0 +1,22 @@
+.section {
+  margin-top: 10vw;
+  text-align: center;
+}
+.main-header {
+  margin: 2.5vw 30vw 3.5vw 30vw;
+  font-family: Snell Roundhand, cursive;
+  font-size: 5vw;
+  border-bottom: 3px solid slategray;
+}
+.list-header {
+  margin: 3vw 35vw 1vw 35vw;
+  font-family: Trebuchet MS, sans-serif;
+  border-bottom: 1px solid slategray;
+}
+.flex-container {
+  display: flex
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+}
